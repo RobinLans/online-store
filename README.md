@@ -12,5 +12,5 @@ Live-Demo: [Netlify](https://eager-minsky-31cb06.netlify.app/)
 
 - React 
 - Redux Toolkit 
-- Taildwind.css
+- Taildwindcss
 - Vite
