@@ -8,3 +8,9 @@ Live-Demo: [Netlify](https://eager-minsky-31cb06.netlify.app/)
 2. Install dependencies ```npm install```
 3. Run the dev environment ```npm run dev```
 
+### Used technologies
+
+- React 
+- Redux Toolkit 
+- Taildwind.css
+- Vite
